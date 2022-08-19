@@ -1,0 +1,12 @@
+import random
+
+for i in range(5):
+    print(random.randint(1,20))
+
+    def randomInts(num):
+        print('randomising ints')
+        for x in range(num):
+            print(random.randint(1,20))
+
+test = randomInts(7)
+

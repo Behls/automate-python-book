@@ -1,0 +1,1 @@
+# This reposititry contains notes and exercies from automate the boring stuff with python
