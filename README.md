@@ -8,3 +8,5 @@ This page acts as a directory for all the chapters completed including any revis
 - Chapter Three - [Functions] (https://github.com/Behls/automate-python-book/tree/main/chapter%201%20-%20functions).
 - [chapter Four - Lists] (https://github.com/Behls/automate-python-book/tree/main/chapter%201%20-%20lists).
 - Additional Practice - [Extra] (https://github.com/Behls/automate-python-book/tree/main/chapter%201%20-%20lists).
+
+[This is a link](https://www.youtube.com/watch?v=GwIo3gDZCVQ)
